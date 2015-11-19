@@ -1,6 +1,8 @@
 Airesis - E-Democracy Web Application
 ===========================================
 
+[![Join the chat at https://gitter.im/olistik/Airesis](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/olistik/Airesis?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Overview
 --------
 Questo innovativo strumento per la democrazia partecipata pone come principale attore al centro il cittadino e gli permette finalmente di essere attivo nelle decisioni del proprio territorio.
